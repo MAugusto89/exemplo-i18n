@@ -1,0 +1,20 @@
+.header{
+    background-image: linear-gradient(to right, #cbd5e1, #fff);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.flag{
+    width: 24px;
+    border: none;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+}
+.first:first-of-type{
+    margin-left: auto;
+}
+.flag img{
+    width: 100%;
+}
